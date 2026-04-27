@@ -74,8 +74,11 @@ const tabMap = {
   'junk': 'tab-junk',
   'cleaning': 'tab-cleaning',
   'vacant': 'tab-vacant',
+  'furniture': 'tab-furniture',
   'investigation': 'tab-investigation',
-  'agency': 'tab-agency'
+  'agency': 'tab-agency',
+  'estate': 'tab-estate',
+  'travel': 'tab-travel'
 };
 
 priceTabs.forEach(tab => {

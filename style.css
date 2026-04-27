@@ -550,9 +550,9 @@ section { padding: 96px 0; }
   justify-content: center;
 }
 .price-tab {
-  padding: 10px 20px;
+  padding: 9px 16px;
   border-radius: 50px;
-  font-size: 0.85rem;
+  font-size: 0.82rem;
   font-weight: 700;
   color: var(--text-mid);
   background: var(--white);
@@ -1062,6 +1062,6 @@ section { padding: 96px 0; }
   .services-grid { grid-template-columns: 1fr; }
   .hero-features { flex-direction: column; }
   .hero-buttons { flex-direction: column; }
-  .price-tabs { gap: 6px; }
-  .price-tab { padding: 8px 14px; font-size: 0.78rem; }
+  .price-tabs { gap: 5px; }
+  .price-tab { padding: 7px 11px; font-size: 0.75rem; }
 }
